@@ -1,0 +1,21 @@
+{
+  "name": "@harispandzic46/wayup-styles-fonts-arial",
+  "version": "1.0.0",
+  "description": "Arial font styles for WayUp applications - modified version with Arial instead of Proxima Nova",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "flow-typed/"
+  ],
+  "keywords": ["fonts", "arial", "wayup", "styles", "css"],
+  "author": "Haris Pandzic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harispandzic46/wayup-styles-fonts-arial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harispandzic46/wayup-styles-fonts-arial/issues"
+  },
+  "homepage": "https://github.com/harispandzic46/wayup-styles-fonts-arial#readme"
+}
