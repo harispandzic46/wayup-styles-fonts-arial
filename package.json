@@ -1,8 +1,9 @@
 {
   "name": "@harispandzic46/wayup-styles-fonts-arial",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Arial font styles for WayUp applications - modified version with Arial instead of Proxima Nova",
   "main": "index.js",
+  "type": "commonjs",
   "files": [
     "index.js",
     "flow-typed/"
